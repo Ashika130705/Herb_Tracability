@@ -2,6 +2,9 @@
   "name": "herb-traceability",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@testing-library/dom": "^8.20.0",
     "@testing-library/jest-dom": "^5.17.0",
